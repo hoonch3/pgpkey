@@ -1,2 +1,2 @@
-[PGP Key](key_file.html)
+[PGP Key](key_file.txt)
 =======
