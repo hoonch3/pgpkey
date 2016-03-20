@@ -1,2 +1,2 @@
-[PGP Key](key_file.txt)
+[GPG Key](key_file.txt)
 =======
